@@ -18,7 +18,7 @@ AppSumo
 
 PeerList
 
-[go-publicly.com] 
+[[https://go-publicly.com]](https://go-publicly.com) 
 
 Reddit
 
