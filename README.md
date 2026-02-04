@@ -4,120 +4,208 @@ A curated directory of product launch platforms, communities, and distribution c
 
 This repository serves as a single reference point for anyone launching a product, SaaS, app, tool, or side project and looking for the right places to share it. Instead of chasing hype, it helps you choose launch sources that actually match your product stage and goals.
 
-What this repository is about
+Tier 1 – Must-Launch Platforms (High Signal, Real Traffic)
 
-Launching a product today is not a one-day event. Discovery happens across platforms, communities, content channels, and marketplaces over time.
+These are the heavy hitters. If you skip these, you’re leaving credibility and inbound on the table.
 
-This repository brings together:
+ProductHunt
 
-Product launch platforms
+HackerNews
 
-Founder and startup communities
+IndieHackers
 
-Marketing and content-driven distribution channels
+AppSumo
 
-Review and listing directories
+PeerList
 
-App-specific launch platforms
+[go-publicly.com] 
 
-The goal is to help founders and marketers build a repeatable launch strategy rather than relying on a single spike of attention.
+Reddit
 
-Categories covered
-1. Product launch platforms
+Tier 2 – Indie & Founder-Focused Launchpads
 
-Platforms designed specifically for discovering new products:
+Strong communities, good for early traction, feedback, and repeat visibility.
 
-[Product Hunt](producthunt.com)
+MicroLaunch
 
-[Go Publicly](https://go-publicly.com)
+BetaList
 
-[BetaList](https://betalist.com)
+DevHunt
 
-[Indie Hackers](https://indiehackers.com)
+Makerlog
 
-Best for public launches, early feedback, and visibility among builders.
+Buildspace Demo Day
 
-2. Founder and startup communities
+SideProjectors
 
-Places where founders already hang out and discuss products:
+WIP
 
-Reddit (startup and SaaS communities)
+ShipYard HQ
 
-Hacker News
+Shipsquad
 
-Slack communities
+TinyStartups
 
-Discord servers
+DesiFounder
 
-Best for feedback-driven launches and early user conversations.
+Tier 3 – SaaS & Startup Directories (SEO + Backlinks)
 
-3. Marketing and distribution platforms
+These won’t go viral, but they compound over time. Pure distribution muscle.
 
-Channels for reaching wider or more targeted audiences:
+SaaSHub
 
-LinkedIn
+SaaSFame
 
-Twitter (X)
+SaaS Fame
 
-Medium
+StartupSubmit
 
-Email newsletters
+StartupRanked
 
-Best for storytelling, announcements, and long-term visibility.
+StartupSlabSite
 
-4. Review and listing directories
+Foundrlist
 
-Platforms that build credibility over time:
+LaunchBoard
 
-G2
+LaunchDirectories
 
-Capterra
+LaunchUrApp
+
+LaunchDubai
+
+LaunchTank
+
+LaunchVibe
+
+LaunchIgniter
+
+LaunchBoard
+
+LaunchingNext
+
+SpeedLaunch
+
+CutAndShip
+
+Tier 4 – AI-Specific Directories (If Product Has AI Angle)
+
+High volume, mixed quality, but excellent for AI discovery and long-tail traffic.
+
+TheresAnAIForThat
+
+FutureTools
+
+Futurepedia
+
+AI Scout
+
+Aixploria
+
+Insidr AI
+
+EverythingAITool
+
+AItoolonline
+
+AIToolFame
+
+AILaunch
+
+TryLaunchAI
+
+ShowMeBestAI
+
+KatseAI
+
+SolutionsFast
+
+Turbo0
+
+300 AI Directories
+
+Tier 5 – Micro Launch & Niche Discovery Platforms
+
+Low effort, low risk, decent backlinks. Good for automation.
+
+Fazier
+
+Firsto
+
+Hunt0
+
+Neeed Directory
+
+Uneed
+
+ToolFame
+
+TinyLaunch
+
+TwelveTools
+
+IndieTools
+
+Indie Deals
+
+IndieHackers (Projects section)
+
+NoCodeList
 
 AlternativeTo
 
-SaaS directories and tool listings
+OpenAlternative
 
-Best for social proof and comparison-based discovery.
+FindlyTools
 
-5. App and extension platforms
+BestOfWebsite
 
-Essential for app-specific discovery:
+Tier 6 – Community & Signal Platforms (Founder Credibility)
 
-Google Play Store
+Not direct launchpads, but they add trust, visibility, and conversations.
 
-Apple App Store
+Stacker News
 
-Chrome Web Store
+PitchWall
 
-6. Content-driven launch sources
+Makerlog
 
-Indirect but effective launch support:
+TrustMRR
 
-Blog posts
+BacklinkGPT
 
-Case studies
+ProofStories
 
-Comparison pages
+Proofy
 
-Launch breakdowns
+TapRefer
 
-Best for SEO and compounding traffic.
+Tier 7 – Experimental / Low Signal (Optional)
 
-How to use this repository
+Use only if you’re automating submissions or testing reach.
 
-Do not launch everywhere
+Peerpush
 
-Pick platforms that match your product stage
+DailyPings
 
-Combine one major launch with one or two slow-burn channels
+ConfettiSaaS
 
-Treat launches as ongoing, not one-time events
+ShipIt Buzz
 
-Who this is for
+ShowMeBestAI
 
-Indie founders, bootstrapped startups, SaaS builders, product marketers, and solo makers.
+TryLaunch
 
-Contributions & Disclaimer
+LaunchVibe
 
-Contributions are welcome via pull requests. This repository is community-driven and informational. Listing does not imply endorsement or ranking.
+Top10Now
 
+The Grommet
+
+NextBigProduct
+
+MadeLaunch
+
+WaitJoin
+
+StartupSubmit
