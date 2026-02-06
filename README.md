@@ -1,16 +1,14 @@
-Product Launch Platforms Directory
+# Product Launch Platforms Directory
 
 A curated directory of product launch platforms, communities, and distribution channels for founders, indie makers, and marketers.
 
 This repository serves as a single reference point for anyone launching a product, SaaS, app, tool, or side project and looking for the right places to share it. Instead of chasing hype, it helps you choose launch sources that actually match your product stage and goals.
 
-**Tier 1 – Must-Launch Platforms (High Signal, Real Traffic)**
+## Tier 1 – Must-Launch Platforms (High Signal, Real Traffic)**
 
 These are the heavy hitters. If you skip these, you’re leaving credibility and inbound on the table.
-
-[ProductHunt](producthunt.com)
-
-[HackerNews]([(https://news.ycombinator.com/))
+ [ProductHunt](producthunt.com)
+ [HackerNews]([(https://news.ycombinator.com/))
 
 [IndieHackers](indiehcakers.com)
 
@@ -22,7 +20,7 @@ These are the heavy hitters. If you skip these, you’re leaving credibility and
 
 Reddit
 
-**Tier 2 – Indie & Founder-Focused Launchpads**
+## Tier 2 – Indie & Founder-Focused Launchpads**
 
 Strong communities, good for early traction, feedback, and repeat visibility.
 
@@ -48,7 +46,7 @@ TinyStartups
 
 DesiFounder
 
-**Tier 3 – SaaS & Startup Directories (SEO + Backlinks)**
+## Tier 3 – SaaS & Startup Directories (SEO + Backlinks)**
 
 These won’t go viral, but they compound over time. Pure distribution muscle.
 
@@ -88,7 +86,7 @@ SpeedLaunch
 
 CutAndShip
 
-**Tier 4 – AI-Specific Directories (If Product Has AI Angle)**
+## Tier 4 – AI-Specific Directories (If Product Has AI Angle)**
 
 High volume, mixed quality, but excellent for AI discovery and long-tail traffic.
 
@@ -124,8 +122,8 @@ Turbo0
 
 300 AI Directories
 
-**Tier 5 – Micro Launch & Niche Discovery Platforms
-**
+## Tier 5 – Micro Launch & Niche Discovery Platforms
+
 Low effort, low risk, decent backlinks. Good for automation.
 
 Fazier
@@ -160,7 +158,7 @@ FindlyTools
 
 BestOfWebsite
 
-**Tier 6 – Community & Signal Platforms (Founder Credibility)**
+## Tier 6 – Community & Signal Platforms (Founder Credibility)**
 
 Not direct launchpads, but they add trust, visibility, and conversations.
 
@@ -180,8 +178,8 @@ Proofy
 
 TapRefer
 
-**Tier 7 – Experimental / Low Signal (Optional)
-**
+## Tier 7 – Experimental / Low Signal (Optional)
+
 Use only if you’re automating submissions or testing reach.
 
 Peerpush
