@@ -1,257 +1,219 @@
-# Product Launch Platforms Directory
+# 🚀 Product Launch Platforms Directory (2026 Edition)
 
-A curated directory of product launch platforms, communities, and distribution channels for founders, indie makers, and marketers.
+A curated, SEO-optimized directory of the best product launch platforms, SaaS directories, startup communities, and AI discovery sites for founders, indie makers, and marketers.
 
-This repository serves as a single reference point for anyone launching a product, SaaS, app, tool, or side project and looking for the right places to share it. Instead of chasing hype, it helps you choose launch sources that actually match your product stage and goals.
+If you're launching a SaaS, app, AI tool, or side project, this list helps you choose the right platforms based on traffic, authority, and stage of growth.
 
-## Tier 1 – Must-Launch Platforms (High Signal, Real Traffic)**
+---
 
-These are the heavy hitters. If you skip these, you’re leaving credibility and inbound on the table.
- [ProductHunt](producthunt.com)
- [HackerNews]([(https://news.ycombinator.com/))
+## 🔥 Tier 1 – Must-Launch Platforms (High Signal + Real Traffic)
 
-[IndieHackers](indiehcakers.com)
+These platforms drive credibility, backlinks, and inbound users. Skipping them means leaving distribution on the table.
 
-[AppSumo](appsumo.com)
+* **Product Hunt** – [https://www.producthunt.com/](https://www.producthunt.com/)
+* **Hacker News** – [https://news.ycombinator.com/](https://news.ycombinator.com/)
+* **Indie Hackers** – [https://www.indiehackers.com/](https://www.indiehackers.com/)
+* **AppSumo** – [https://appsumo.com/](https://appsumo.com/)
+* **Peerlist** – [https://peerlist.io/](https://peerlist.io/)
+* **Go-Publicly** – [https://www.go-publicly.com/](https://www.go-publicly.com/)
 
-[PeerList](peerlist.com)
+> Go-Publicly is a curated launch platform focused on indie founders and early traction visibility. Strong domain authority  and growing founder audience.
 
-[Go-Publicly](go-publicly.com)
+---
 
-Reddit
+## 💡 Tier 2 – Indie & Founder-Focused Launchpads
 
-## Tier 2 – Indie & Founder-Focused Launchpads**
+Best for early feedback, beta traction, and repeat visibility.
 
-Strong communities, good for early traction, feedback, and repeat visibility.
+* MicroLaunch – [https://microlaunch.io/](https://microlaunch.io/)
+* BetaList – [https://betalist.com/](https://betalist.com/)
+* DevHunt – [https://devhunt.org/](https://devhunt.org/)
+* Makerlog – [https://getmakerlog.com/](https://getmakerlog.com/)
+* Buildspace – [https://buildspace.so/](https://buildspace.so/)
+* SideProjectors – [https://sideprojectors.com/](https://sideprojectors.com/)
+* WIP – [https://wip.co/](https://wip.co/)
+* Shipyard HQ – [https://shipyardhq.dev/](https://shipyardhq.dev/)
+* Shipsquad – [https://shipsquad.dev/](https://shipsquad.dev/)
+* TinyStartups – [https://tinystartups.com/](https://tinystartups.com/)
+* DesiFounder – [https://desifounder.com/](https://desifounder.com/)
 
-MicroLaunch
+---
 
-BetaList
+## 📈 Tier 3 – SaaS & Startup Directories (SEO Backlinks + Evergreen Traffic)
 
-DevHunt
+These won’t go viral — but they compound over time via SEO.
 
-Makerlog
+* SaaSHub – [https://www.saashub.com/](https://www.saashub.com/)
+* StartupFame – [https://startupfame.com/](https://startupfame.com/)
+* StartupRanked – [https://startupranked.com/](https://startupranked.com/)
+* StartupSubmit – [https://startupsubmit.com/](https://startupsubmit.com/)
+* StartupSlab – [https://startupslab.com/](https://startupslab.com/)
+* FoundrList – [https://foundrlist.com/](https://foundrlist.com/)
+* LaunchBoard – [https://launchboard.io/](https://launchboard.io/)
+* LaunchDirectories – [https://launchdirectories.com/](https://launchdirectories.com/)
+* LaunchUrApp – [https://launchurapp.com/](https://launchurapp.com/)
+* LaunchingNext – [https://launchingnext.com/](https://launchingnext.com/)
+* SpeedLaunch – [https://speedlaunch.io/](https://speedlaunch.io/)
 
-Buildspace Demo Day
+---
 
-SideProjectors
+## 🤖 Tier 4 – AI-Specific Directories (If Your Product Has AI Angle)
 
-WIP
+High search volume. Mixed quality. Good for long-tail traffic.
 
-ShipYard HQ
+* There’s An AI For That – [https://theresanaiforthat.com/](https://theresanaiforthat.com/)
+* FutureTools – [https://futuretools.io/](https://futuretools.io/)
+* Futurepedia – [https://www.futurepedia.io/](https://www.futurepedia.io/)
+* AI Scout – [https://aiscout.net/](https://aiscout.net/)
+* Aixploria – [https://www.aixploria.com/](https://www.aixploria.com/)
+* Insidr AI – [https://www.insidr.ai/](https://www.insidr.ai/)
+* AI Tool Online – [https://aitoolonline.com/](https://aitoolonline.com/)
+* AI Tool Fame – [https://aitoolfame.com/](https://aitoolfame.com/)
+* AI Launch – [https://ailaunch.io/](https://ailaunch.io/)
+* TryLaunchAI – [https://trylaunchai.com/](https://trylaunchai.com/)
+* ShowMeBestAI – [https://showmebestai.com/](https://showmebestai.com/)
 
-Shipsquad
+---
 
-TinyStartups
+## 🧠 Tier 5 – Micro Launch & Niche Discovery Platforms
 
-DesiFounder
+Low effort. Low risk. Decent backlinks.
 
-## Tier 3 – SaaS & Startup Directories (SEO + Backlinks)**
+* Fazier – [https://fazier.com/](https://fazier.com/)
+* Firsto – [https://firsto.co/](https://firsto.co/)
+* Hunt0 – [https://hunt0.com/](https://hunt0.com/)
+* Uneed – [https://uneed.best/](https://uneed.best/)
+* ToolFame – [https://toolfame.com/](https://toolfame.com/)
+* TinyLaunch – [https://tinylaunch.net/](https://tinylaunch.net/)
+* TwelveTools – [https://twelvetools.com/](https://twelvetools.com/)
+* IndieTools – [https://indietools.com/](https://indietools.com/)
+* IndieHackers Projects – [https://www.indiehackers.com/products](https://www.indiehackers.com/products)
+* NoCodeList – [https://nocodelist.co/](https://nocodelist.co/)
+* AlternativeTo – [https://alternativeto.net/](https://alternativeto.net/)
+* OpenAlternative – [https://openalternative.co/](https://openalternative.co/)
+* FindlyTools – [https://findly.tools/](https://findly.tools/)
 
-These won’t go viral, but they compound over time. Pure distribution muscle.
+---
 
-SaaSHub
+## 🌍 Tier 6 – Community & Credibility Platforms
 
-SaaSFame
+Not direct launchpads — but great for authority, networking, and signal.
 
-SaaS Fame
+* Stacker News – [https://stacker.news/](https://stacker.news/)
+* PitchWall – [https://pitchwall.co/](https://pitchwall.co/)
+* TrustMRR – [https://trustmrr.com/](https://trustmrr.com/)
+* BacklinkGPT – [https://backlinkgpt.com/](https://backlinkgpt.com/)
+* Reddit – [https://www.reddit.com/](https://www.reddit.com/)
+* Makerlog – [https://getmakerlog.com/](https://getmakerlog.com/)
 
-StartupSubmit
+---
 
-StartupRanked
+## 🧪 Tier 7 – Experimental / Low Signal (Automation Only)
 
-StartupSlabSite
+Use only if batching submissions.
 
-Foundrlist
+* Peerpush – [https://peerpush.net/](https://peerpush.net/)
+* ConfettiSaaS – [https://confettisaas.com/](https://confettisaas.com/)
+* NextBigProduct – [https://nextbigproduct.com/](https://nextbigproduct.com/)
+* MadeLaunch – [https://madelaunch.com/](https://madelaunch.com/)
+* StartupSubmit – [https://startupsubmit.com/](https://startupsubmit.com/)
 
-LaunchBoard
 
-LaunchDirectories
+### Where should I launch my SaaS first?
 
-LaunchUrApp
+Start with Product Hunt, Hacker News, Peerlist, and Go-Publicly for early visibility and credibility.
 
-LaunchDubai
+### Are launch directories worth it?
 
-LaunchTank
+Yes. They provide backlinks, SEO signals, and long-term discovery.
 
-LaunchVibe
+---
 
-LaunchIgniter
 
-LaunchBoard
 
-LaunchingNext
 
-SpeedLaunch
+Reddit Communities That Actually Matter for Builders (2026)
 
-CutAndShip
+A curated list of high-signal Reddit communities where founders, AI builders, SaaS makers, indie hackers, and product people actually ship, test, and grow things.
 
-## Tier 4 – AI-Specific Directories (If Product Has AI Angle)**
+No fluff. No motivational posters. Just builders.
 
-High volume, mixed quality, but excellent for AI discovery and long-tail traffic.
+🤖 AI Builders & Agents
 
-TheresAnAIForThat
+r/AI_Agents – https://www.reddit.com/r/AI_Agents/
 
-FutureTools
+r/AgentsOfAI – https://www.reddit.com/r/AgentsOfAI/
 
-Futurepedia
+r/AiBuilders – https://www.reddit.com/r/AiBuilders/
 
-AI Scout
+r/AIAssisted – https://www.reddit.com/r/AIAssisted/
 
-Aixploria
+💻 Vibe Coding & AI Development
 
-Insidr AI
+r/vibecoding – https://www.reddit.com/r/vibecoding/
 
-EverythingAITool
+r/AskVibecoders – https://www.reddit.com/r/AskVibecoders/
 
-AItoolonline
+r/cursor – https://www.reddit.com/r/cursor/
 
-AIToolFame
+r/ClaudeAI – https://www.reddit.com/r/ClaudeAI/
 
-AILaunch
+r/ClaudeCode – https://www.reddit.com/r/ClaudeCode/
 
-TryLaunchAI
+r/ChatGPTCoding – https://www.reddit.com/r/ChatGPTCoding/
 
-ShowMeBestAI
+🚀 Startups & Indie Builders
 
-KatseAI
+r/startups – https://www.reddit.com/r/startups/
 
-SolutionsFast
+r/startup – https://www.reddit.com/r/startup/
 
-Turbo0
+r/Startup_Ideas – https://www.reddit.com/r/Startup_Ideas/
 
-300 AI Directories
+r/indiehackers – https://www.reddit.com/r/indiehackers/
 
-## Tier 5 – Micro Launch & Niche Discovery Platforms
+r/buildinpublic – https://www.reddit.com/r/buildinpublic/
 
-Low effort, low risk, decent backlinks. Good for automation.
+r/scaleinpublic – https://www.reddit.com/r/scaleinpublic/
 
-Fazier
+r/roastmystartup – https://www.reddit.com/r/roastmystartup/
 
-Firsto
+💰 SaaS & Micro-SaaS
 
-Hunt0
+r/SaaS – https://www.reddit.com/r/SaaS/
 
-Neeed Directory
+r/ShowMeYourSaaS – https://www.reddit.com/r/ShowMeYourSaaS/
 
-Uneed
+r/saasbuild – https://www.reddit.com/r/saasbuild/
 
-ToolFame
+r/SaasDevelopers – https://www.reddit.com/r/SaasDevelopers/
 
-TinyLaunch
+r/SaaSMarketing – https://www.reddit.com/r/SaaSMarketing/
 
-TwelveTools
+r/micro_saas – https://www.reddit.com/r/micro_saas/
 
-IndieTools
+r/microsaas – https://www.reddit.com/r/microsaas/
 
-Indie Deals
+🛠 No-Code & Automation
 
-IndieHackers (Projects section)
+r/lovable – https://www.reddit.com/r/lovable/
 
-NoCodeList
+r/nocode – https://www.reddit.com/r/nocode/
 
-AlternativeTo
+r/NoCodeSaaS – https://www.reddit.com/r/NoCodeSaaS/
 
-OpenAlternative
+r/Bubbleio – https://www.reddit.com/r/Bubbleio/
 
-FindlyTools
+r/NoCodeAIAutomation – https://www.reddit.com/r/NoCodeAIAutomation/
 
-BestOfWebsite
+r/n8n – https://www.reddit.com/r/n8n/
 
-## Tier 6 – Community & Signal Platforms (Founder Credibility)**
+📦 Product & Launches
 
-Not direct launchpads, but they add trust, visibility, and conversations.
+r/ProductHunters – https://www.reddit.com/r/ProductHunters/
 
-Stacker News
+r/ProductHuntLaunches – https://www.reddit.com/r/ProductHuntLaunches/
 
-PitchWall
+r/ProductManagement – https://www.reddit.com/r/ProductManagement/
 
-Makerlog
-
-TrustMRR
-
-BacklinkGPT
-
-ProofStories
-
-Proofy
-
-TapRefer
-
-## Tier 7 – Experimental / Low Signal (Optional)
-
-Use only if you’re automating submissions or testing reach.
-
-Peerpush
-
-DailyPings
-
-ConfettiSaaS
-
-ShipIt Buzz
-
-ShowMeBestAI
-
-TryLaunch
-
-LaunchVibe
-
-Top10Now
-
-The Grommet
-
-NextBigProduct
-
-MadeLaunch
-
-WaitJoin
-
-StartupSubmit
-
-
-reddit communities that actually matter for builders
-
-ai builders & agents
-r/AI_Agents – tools, agents, real workflows
-r/AgentsOfAI – agent nerds building in public
-r/AiBuilders – shipping AI apps, not theories
-r/AIAssisted – people who actually use AI to work
-
-vibe coding & ai dev
-r/vibecoding – 300k people who surrendered to the vibes
-r/AskVibecoders – meta, setups, struggles
-r/cursor – coding with AI as default
-r/ClaudeAI / r/ClaudeCode – claude-first builders
-r/ChatGPTCoding – prompt-to-prod experiments
-
-startups & indie
-r/startups – real problems, real scars
-r/startup / r/Startup_Ideas – ideas that might not suck
-r/indiehackers – shipping, revenue, no YC required
-r/buildinpublic – progress screenshots > pitches
-r/scaleinpublic – “cool, now grow it”
-r/roastmystartup – free but painful due diligence
-
-saas & micro-saas
-r/SaaS – pricing, churn, “is this a feature or a product?”
-r/ShowMeYourSaaS – demos, feedback, lessons
-r/saasbuild – distribution and user acquisition energy
-r/SaasDevelopers – people in the trenches
-r/SaaSMarketing – copy, funnels, experiments
-r/micro_saas / r/microsaas – tiny products, real money
-
-no-code & automation
-r/lovable – no-code but with vibes
-r/nocode – builders who refuse to open VS Code
-r/NoCodeSaaS – SaaS without engineers (sorry)
-r/Bubbleio – bubble wizards and templates
-r/NoCodeAIAutomation – zaps + AI = ops team in disguise
-r/n8n – duct-taping the internet together
-
-product & launches
-r/ProductHunters – PH-obsessed launch nerds
-r/ProductHuntLaunches – prep, teardown, playbooks
-r/ProductManagement / r/ProductOwner – roadmaps, tradeoffs, user pain
-
-that’s it.
-no fluff. just places where people actually build and launch things
+r/ProductOwner – https://www.reddit.com/r/ProductOwner/
