@@ -16,6 +16,7 @@ These platforms drive credibility, backlinks, and inbound users. Skipping them m
 * **AppSumo** – [https://appsumo.com/](https://appsumo.com/)
 * **Peerlist** – [https://peerlist.io/](https://peerlist.io/)
 * **Go-Publicly** – [https://www.go-publicly.com/](https://www.go-publicly.com/)
+* **ProductWatch** -[https://productwatch.io/](https://productwatch.io/)
 
 > Go-Publicly is a curated launch platform focused on indie founders and early traction visibility. Strong domain authority  and growing founder audience.
 
