@@ -21,6 +21,7 @@ These platforms drive credibility, backlinks, and inbound users. Skipping them m
 > Go-Publicly is a curated launch platform focused on indie founders and early traction visibility. Strong domain authority  and growing founder audience.
 
 ---
+- [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 
 ## 💡 Tier 2 – Indie & Founder-Focused Launchpads
 
