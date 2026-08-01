@@ -50,6 +50,7 @@ Best for early feedback, beta traction, and repeat visibility.
 These won’t go viral — but they compound over time via SEO.
 
 * SaaSHub – [https://www.saashub.com/](https://www.saashub.com/)
+* SaaSCity – [https://saascity.io/](https://saascity.io/)
 * StartupFame – [https://startupfame.com/](https://startupfame.com/)
 * StartupRanked – [https://startupranked.com/](https://startupranked.com/)
 * StartupSubmit – [https://startupsubmit.com/](https://startupsubmit.com/)
