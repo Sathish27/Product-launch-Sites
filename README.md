@@ -60,6 +60,7 @@ These won’t go viral — but they compound over time via SEO.
 * LaunchUrApp – [https://launchurapp.com/](https://launchurapp.com/)
 * LaunchingNext – [https://launchingnext.com/](https://launchingnext.com/)
 * SpeedLaunch – [https://speedlaunch.io/](https://speedlaunch.io/)
+* MEDIAPRONET – [https://mediapronet.com/](https://mediapronet.com/)
 
 ---
 
