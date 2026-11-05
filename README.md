@@ -60,6 +60,9 @@ These won’t go viral — but they compound over time via SEO.
 * LaunchUrApp – [https://launchurapp.com/](https://launchurapp.com/)
 * LaunchingNext – [https://launchingnext.com/](https://launchingnext.com/)
 * SpeedLaunch – [https://speedlaunch.io/](https://speedlaunch.io/)
+* PWA Directory – [https://pwa.directory/](https://pwa.directory/)
+* Web Apps Directory – [https://webapps.directory/](https://webapps.directory/)
+* Boilerplates Directory – [https://boilerplates.directory/](https://boilerplates.directory/)
 
 ---
 
